@@ -1,0 +1,4 @@
+https://neon.tech/cfe
+https://www.codingforentrepreneurs.com/blog/sending-email-in-django-from-gmail/
+https://www.codingforentrepreneurs.com/blog/deploy-django-on-railway-with-this-dockerfile/
+https://github.com/codingforentrepreneurs/SaaS-Foundations
